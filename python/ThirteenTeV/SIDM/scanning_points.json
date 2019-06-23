@@ -1,0 +1,1802 @@
+[
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.02"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-100_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-100_mA-0p25_ctau-0p02_lxy-0p3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.2"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-100_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-100_mA-0p25_ctau-0p2_lxy-3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 2"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-100_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-100_mA-0p25_ctau-2p0_lxy-30", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 10"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-100_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-100_mA-0p25_ctau-10p0_lxy-150", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 20"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-100_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-100_mA-0p25_ctau-20p0_lxy-300", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.096"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-100_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-100_mA-1p2_ctau-0p096_lxy-0p3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.96"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-100_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-100_mA-1p2_ctau-0p96_lxy-3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 9.6"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-100_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-100_mA-1p2_ctau-9p6_lxy-30", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 48"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-100_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-100_mA-1p2_ctau-48p0_lxy-150", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 96"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-100_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-100_mA-1p2_ctau-96p0_lxy-300", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.4"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-100_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-100_mA-5_ctau-0p4_lxy-0p3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 4"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-100_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-100_mA-5_ctau-4p0_lxy-3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 40"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-100_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-100_mA-5_ctau-40p0_lxy-30", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 200"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-100_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-100_mA-5_ctau-200p0_lxy-150", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 400"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-100_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-100_mA-5_ctau-400p0_lxy-300", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.01333"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-150_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-150_mA-0p25_ctau-0p01333_lxy-0p3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.1333"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-150_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-150_mA-0p25_ctau-0p1333_lxy-3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 1.333"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-150_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-150_mA-0p25_ctau-1p333_lxy-30", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 6.667"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-150_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-150_mA-0p25_ctau-6p667_lxy-150", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 13.33"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-150_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-150_mA-0p25_ctau-13p33_lxy-300", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.064"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-150_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-150_mA-1p2_ctau-0p064_lxy-0p3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.64"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-150_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-150_mA-1p2_ctau-0p64_lxy-3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 6.4"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-150_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-150_mA-1p2_ctau-6p4_lxy-30", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 32"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-150_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-150_mA-1p2_ctau-32p0_lxy-150", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 64"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-150_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-150_mA-1p2_ctau-64p0_lxy-300", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.2667"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-150_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-150_mA-5_ctau-0p2667_lxy-0p3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 2.667"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-150_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-150_mA-5_ctau-2p667_lxy-3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 26.67"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-150_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-150_mA-5_ctau-26p67_lxy-30", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 133.3"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-150_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-150_mA-5_ctau-133p3_lxy-150", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 266.7"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-150_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-150_mA-5_ctau-266p7_lxy-300", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.01"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-200_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-200_mA-0p25_ctau-0p01_lxy-0p3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.1"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-200_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-200_mA-0p25_ctau-0p1_lxy-3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 1"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-200_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-200_mA-0p25_ctau-1p0_lxy-30", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 5"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-200_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-200_mA-0p25_ctau-5p0_lxy-150", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 10"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-200_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-200_mA-0p25_ctau-10p0_lxy-300", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.048"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-200_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-200_mA-1p2_ctau-0p048_lxy-0p3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.48"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-200_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-200_mA-1p2_ctau-0p48_lxy-3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 4.8"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-200_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-200_mA-1p2_ctau-4p8_lxy-30", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 24"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-200_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-200_mA-1p2_ctau-24p0_lxy-150", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 48"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-200_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-200_mA-1p2_ctau-48p0_lxy-300", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.2"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-200_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-200_mA-5_ctau-0p2_lxy-0p3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 2"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-200_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-200_mA-5_ctau-2p0_lxy-3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 20"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-200_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-200_mA-5_ctau-20p0_lxy-30", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 100"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-200_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-200_mA-5_ctau-100p0_lxy-150", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 200"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-200_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-200_mA-5_ctau-200p0_lxy-300", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.004"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-500_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-500_mA-0p25_ctau-0p004_lxy-0p3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.04"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-500_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-500_mA-0p25_ctau-0p04_lxy-3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.4"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-500_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-500_mA-0p25_ctau-0p4_lxy-30", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 2"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-500_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-500_mA-0p25_ctau-2p0_lxy-150", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 4"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-500_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-500_mA-0p25_ctau-4p0_lxy-300", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.0192"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-500_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-500_mA-1p2_ctau-0p0192_lxy-0p3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.192"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-500_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-500_mA-1p2_ctau-0p192_lxy-3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 1.92"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-500_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-500_mA-1p2_ctau-1p92_lxy-30", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 9.6"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-500_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-500_mA-1p2_ctau-9p6_lxy-150", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 19.2"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-500_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-500_mA-1p2_ctau-19p2_lxy-300", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.08"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-500_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-500_mA-5_ctau-0p08_lxy-0p3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.8"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-500_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-500_mA-5_ctau-0p8_lxy-3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 8"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-500_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-500_mA-5_ctau-8p0_lxy-30", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 40"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-500_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-500_mA-5_ctau-40p0_lxy-150", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 80"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-500_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-500_mA-5_ctau-80p0_lxy-300", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.0025"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-800_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-800_mA-0p25_ctau-0p0025_lxy-0p3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.025"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-800_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-800_mA-0p25_ctau-0p025_lxy-3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.25"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-800_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-800_mA-0p25_ctau-0p25_lxy-30", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 1.25"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-800_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-800_mA-0p25_ctau-1p25_lxy-150", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 2.5"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-800_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-800_mA-0p25_ctau-2p5_lxy-300", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.012"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-800_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-800_mA-1p2_ctau-0p012_lxy-0p3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.12"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-800_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-800_mA-1p2_ctau-0p12_lxy-3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 1.2"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-800_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-800_mA-1p2_ctau-1p2_lxy-30", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 6"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-800_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-800_mA-1p2_ctau-6p0_lxy-150", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 12"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-800_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-800_mA-1p2_ctau-12p0_lxy-300", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.05"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-800_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-800_mA-5_ctau-0p05_lxy-0p3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.5"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-800_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-800_mA-5_ctau-0p5_lxy-3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 5"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-800_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-800_mA-5_ctau-5p0_lxy-30", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 25"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-800_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-800_mA-5_ctau-25p0_lxy-150", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 50"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-800_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-800_mA-5_ctau-50p0_lxy-300", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.002"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-1000_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-1000_mA-0p25_ctau-0p002_lxy-0p3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.02"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-1000_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-1000_mA-0p25_ctau-0p02_lxy-3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.2"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-1000_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-1000_mA-0p25_ctau-0p2_lxy-30", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 1"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-1000_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-1000_mA-0p25_ctau-1p0_lxy-150", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 2"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-1000_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-1000_mA-0p25_ctau-2p0_lxy-300", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.0096"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-1000_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-1000_mA-1p2_ctau-0p0096_lxy-0p3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.096"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-1000_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-1000_mA-1p2_ctau-0p096_lxy-3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.96"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-1000_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-1000_mA-1p2_ctau-0p96_lxy-30", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 4.8"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-1000_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-1000_mA-1p2_ctau-4p8_lxy-150", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 9.6"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-1000_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-1000_mA-1p2_ctau-9p6_lxy-300", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.04"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-1000_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-1000_mA-5_ctau-0p04_lxy-0p3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.4"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-1000_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-1000_mA-5_ctau-0p4_lxy-3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 4"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-1000_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-1000_mA-5_ctau-4p0_lxy-30", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 20"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-1000_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-1000_mA-5_ctau-20p0_lxy-150", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 40"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo4Mu_mXX-1000_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo4Mu_mXX-1000_mA-5_ctau-40p0_lxy-300", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.02"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-100_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-100_mA-0p25_ctau-0p02_lxy-0p3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.2"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-100_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-100_mA-0p25_ctau-0p2_lxy-3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 2"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-100_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-100_mA-0p25_ctau-2p0_lxy-30", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 10"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-100_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-100_mA-0p25_ctau-10p0_lxy-150", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 20"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-100_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-100_mA-0p25_ctau-20p0_lxy-300", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.096"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-100_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-100_mA-1p2_ctau-0p096_lxy-0p3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.96"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-100_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-100_mA-1p2_ctau-0p96_lxy-3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 9.6"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-100_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-100_mA-1p2_ctau-9p6_lxy-30", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 48"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-100_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-100_mA-1p2_ctau-48p0_lxy-150", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 96"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-100_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-100_mA-1p2_ctau-96p0_lxy-300", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.4"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-100_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-100_mA-5_ctau-0p4_lxy-0p3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 4"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-100_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-100_mA-5_ctau-4p0_lxy-3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 40"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-100_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-100_mA-5_ctau-40p0_lxy-30", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 200"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-100_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-100_mA-5_ctau-200p0_lxy-150", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 400"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-100_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-100_mA-5_ctau-400p0_lxy-300", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.01333"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-150_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-150_mA-0p25_ctau-0p01333_lxy-0p3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.1333"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-150_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-150_mA-0p25_ctau-0p1333_lxy-3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 1.333"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-150_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-150_mA-0p25_ctau-1p333_lxy-30", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 6.667"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-150_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-150_mA-0p25_ctau-6p667_lxy-150", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 13.33"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-150_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-150_mA-0p25_ctau-13p33_lxy-300", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.064"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-150_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-150_mA-1p2_ctau-0p064_lxy-0p3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.64"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-150_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-150_mA-1p2_ctau-0p64_lxy-3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 6.4"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-150_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-150_mA-1p2_ctau-6p4_lxy-30", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 32"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-150_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-150_mA-1p2_ctau-32p0_lxy-150", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 64"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-150_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-150_mA-1p2_ctau-64p0_lxy-300", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.2667"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-150_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-150_mA-5_ctau-0p2667_lxy-0p3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 2.667"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-150_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-150_mA-5_ctau-2p667_lxy-3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 26.67"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-150_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-150_mA-5_ctau-26p67_lxy-30", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 133.3"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-150_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-150_mA-5_ctau-133p3_lxy-150", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 266.7"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-150_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-150_mA-5_ctau-266p7_lxy-300", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.01"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-200_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-200_mA-0p25_ctau-0p01_lxy-0p3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.1"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-200_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-200_mA-0p25_ctau-0p1_lxy-3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 1"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-200_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-200_mA-0p25_ctau-1p0_lxy-30", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 5"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-200_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-200_mA-0p25_ctau-5p0_lxy-150", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 10"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-200_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-200_mA-0p25_ctau-10p0_lxy-300", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.048"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-200_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-200_mA-1p2_ctau-0p048_lxy-0p3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.48"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-200_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-200_mA-1p2_ctau-0p48_lxy-3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 4.8"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-200_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-200_mA-1p2_ctau-4p8_lxy-30", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 24"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-200_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-200_mA-1p2_ctau-24p0_lxy-150", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 48"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-200_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-200_mA-1p2_ctau-48p0_lxy-300", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.2"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-200_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-200_mA-5_ctau-0p2_lxy-0p3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 2"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-200_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-200_mA-5_ctau-2p0_lxy-3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 20"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-200_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-200_mA-5_ctau-20p0_lxy-30", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 100"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-200_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-200_mA-5_ctau-100p0_lxy-150", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 200"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-200_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-200_mA-5_ctau-200p0_lxy-300", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.004"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-500_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-500_mA-0p25_ctau-0p004_lxy-0p3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.04"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-500_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-500_mA-0p25_ctau-0p04_lxy-3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.4"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-500_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-500_mA-0p25_ctau-0p4_lxy-30", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 2"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-500_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-500_mA-0p25_ctau-2p0_lxy-150", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 4"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-500_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-500_mA-0p25_ctau-4p0_lxy-300", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.0192"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-500_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-500_mA-1p2_ctau-0p0192_lxy-0p3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.192"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-500_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-500_mA-1p2_ctau-0p192_lxy-3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 1.92"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-500_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-500_mA-1p2_ctau-1p92_lxy-30", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 9.6"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-500_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-500_mA-1p2_ctau-9p6_lxy-150", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 19.2"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-500_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-500_mA-1p2_ctau-19p2_lxy-300", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.08"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-500_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-500_mA-5_ctau-0p08_lxy-0p3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.8"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-500_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-500_mA-5_ctau-0p8_lxy-3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 8"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-500_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-500_mA-5_ctau-8p0_lxy-30", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 40"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-500_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-500_mA-5_ctau-40p0_lxy-150", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 80"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-500_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-500_mA-5_ctau-80p0_lxy-300", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.0025"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-800_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-800_mA-0p25_ctau-0p0025_lxy-0p3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.025"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-800_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-800_mA-0p25_ctau-0p025_lxy-3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.25"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-800_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-800_mA-0p25_ctau-0p25_lxy-30", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 1.25"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-800_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-800_mA-0p25_ctau-1p25_lxy-150", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 2.5"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-800_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-800_mA-0p25_ctau-2p5_lxy-300", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.012"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-800_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-800_mA-1p2_ctau-0p012_lxy-0p3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.12"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-800_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-800_mA-1p2_ctau-0p12_lxy-3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 1.2"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-800_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-800_mA-1p2_ctau-1p2_lxy-30", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 6"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-800_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-800_mA-1p2_ctau-6p0_lxy-150", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 12"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-800_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-800_mA-1p2_ctau-12p0_lxy-300", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.05"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-800_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-800_mA-5_ctau-0p05_lxy-0p3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.5"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-800_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-800_mA-5_ctau-0p5_lxy-3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 5"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-800_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-800_mA-5_ctau-5p0_lxy-30", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 25"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-800_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-800_mA-5_ctau-25p0_lxy-150", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 50"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-800_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-800_mA-5_ctau-50p0_lxy-300", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.002"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-1000_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-1000_mA-0p25_ctau-0p002_lxy-0p3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.02"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-1000_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-1000_mA-0p25_ctau-0p02_lxy-3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.2"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-1000_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-1000_mA-0p25_ctau-0p2_lxy-30", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 1"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-1000_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-1000_mA-0p25_ctau-1p0_lxy-150", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 2"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-1000_mA-0p25_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-1000_mA-0p25_ctau-2p0_lxy-300", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.0096"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-1000_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-1000_mA-1p2_ctau-0p0096_lxy-0p3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.096"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-1000_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-1000_mA-1p2_ctau-0p096_lxy-3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.96"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-1000_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-1000_mA-1p2_ctau-0p96_lxy-30", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 4.8"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-1000_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-1000_mA-1p2_ctau-4p8_lxy-150", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 9.6"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-1000_mA-1p2_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-1000_mA-1p2_ctau-9p6_lxy-300", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.04"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-1000_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-1000_mA-5_ctau-0p04_lxy-0p3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 0.4"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-1000_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-1000_mA-5_ctau-0p4_lxy-3", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 4"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-1000_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-1000_mA-5_ctau-4p0_lxy-30", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 20"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-1000_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-1000_mA-5_ctau-20p0_lxy-150", 
+        "weight": 1.0
+    }, 
+    {
+        "procParam": [
+            "ParticleDecays:tau0Max = 1000.1", 
+            "LesHouches:setLifetime = 2", 
+            "32:tau0 = 40"
+        ], 
+        "gridpack": "https://wsi.web.cern.ch/wsi/mc/gridpacks/SIDM_XXTo2ATo2Mu2E_mXX-1000_mA-5_slc6_amd64_gcc481_CMSSW_7_1_30_tarball.tar.xz", 
+        "name": "SIDM_XXTo2ATo2Mu2E_mXX-1000_mA-5_ctau-40p0_lxy-300", 
+        "weight": 1.0
+    }
+]
