@@ -16,10 +16,12 @@ cmsDriver.py SIDM_Scan_2018_TuneCP5_13TeV_pythia8_cff.py \
     --conditions auto:phase1_2018_realistic \
     --beamspot Realistic25ns13TeVEarly2018Collision \
     --datatier GEN-SIM --eventcontent RAWSIM -n 10 --no_exec --python_filename SIDM_GENSIM_r_cfg.py \
-    --customise Configuration/DataProcessing/Utils.addMonitoring --customise_command "process.source.numberEventsInLuminosityBlock = cms.untracked.uint32(200)"
+    --customise Configuration/DataProcessing/Utils.addMonitoring \
+    --customise_command "process.source.numberEventsInLuminosityBlock = cms.untracked.uint32(200)"
 ```
 
 ---
+
 For SIDM model, 3 parameters are tuned:
 - mass of DM bound states (`mXX`)
 - mass of dark photon (self-interacting mediator, `mA`)
